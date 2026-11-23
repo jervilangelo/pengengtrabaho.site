@@ -1,0 +1,38 @@
+name: JobStreet PH (opt-in)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 1,7,13 * * *"
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: vars.ENABLE_JOBSTREET_SCRAPER == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+      - run: pip install -r requirements.txt
+      - name: Fetch JobStreet postings if permitted
+        run: python jobstreet_collector.py
+        env:
+          ENABLE_JOBSTREET_SCRAPER: ${{ vars.ENABLE_JOBSTREET_SCRAPER }}
+      - name: Save discovered listings
+        if: vars.ENABLE_DATA_COMMITS == 'true'
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add -f output/jobstreet_jobs.json output/jobstreet_jobs.md output/jobstreet_jobs.html output/all_jobs.json
+          git diff --cached --quiet || git commit -m "chore: refresh PH JobStreet postings"
+          git pull --rebase -X ours origin main
+          git push
