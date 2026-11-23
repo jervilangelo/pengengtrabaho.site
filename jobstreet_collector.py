@@ -4,7 +4,18 @@ Only run with appropriate authorization and respect the platform's terms.
 Returns individual job posting links; no generic search-result URLs.
 """
 import os
+import re
+from urllib.parse import urlparse
 import scrape_jobs as scraper
+
+
+def is_individual_posting(url):
+    parsed = urlparse(str(url or ''))
+    host = (parsed.hostname or '').lower()
+    return (parsed.scheme == 'https' and
+            (host == 'jobstreet.com.ph' or host.endswith('.jobstreet.com.ph') or
+             host == 'seek.com.au' or host.endswith('.seek.com.au')) and
+            bool(re.search(r'/job/[^/]+', parsed.path, re.I)))
 
 
 def run():
@@ -26,7 +37,7 @@ def run():
         results_wanted=30,
     )
     # Only individual listing URLs from the provider are eligible for the dashboard.
-    jobs = [j for j in jobs if j.get("url", "").startswith(("https://", "http://"))
+    jobs = [j for j in jobs if is_individual_posting(j.get("url", ""))
             and j.get("title") and j.get("company")]
     scraper.save_jobs_output(
         jobs,
