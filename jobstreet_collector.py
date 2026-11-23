@@ -14,6 +14,7 @@ def is_individual_posting(url):
     host = (parsed.hostname or '').lower()
     return (parsed.scheme == 'https' and
             (host == 'jobstreet.com.ph' or host.endswith('.jobstreet.com.ph') or
+             host == 'jobstreet.com' or host.endswith('.jobstreet.com') or
              host == 'seek.com.au' or host.endswith('.seek.com.au')) and
             bool(re.search(r'/job/[^/]+', parsed.path, re.I)))
 
