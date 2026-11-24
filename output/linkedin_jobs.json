@@ -1,7 +1,31 @@
 {
-  "scraped_at": "2026-11-23 03:19 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-11-24 02:22 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Ascendion",
+      "title": "DevOps Engineer",
+      "location": "Makati, National Capital Region, Philippines",
+      "url": "https://www.linkedin.com/jobs/view/4493960664/",
+      "date_posted": "2026-11-24",
+      "salary": "",
+      "ats": "LinkedIn",
+      "remote_query": false,
+      "description": "Responsibilities\n\nDuring your shift, execute scheduled ServiceNow change tasks (CTASKs) and maintenance windows in accordance with approved change plans and runbooks.\nInstall security patches and renew certificates during their scheduled change windows.\nAfter applying each change, verify it, roll it back if it fails, and document the result in ServiceNow.\nMonitor dashboards and alerts throughout your shift. Respond by determining whether an alert is genuine, resolving routine issues using the runbook, and escalating anything else.\nServe as the first responder for incidents while the US team is offline. If a runbook does not cover the problem, escalate it to the Deployments lead or the DevOps Lead.\nMaintain accurate runbooks by correcting or adding steps that are wrong or missing after each change or incident.\nConduct live handoffs at the beginning and end of every shift, and leave written notes about open work, incidents, and anything the next shift needs to monitor.\nContribute to the team's coverage metrics, including changes completed on schedule and changes delayed or rolled back.\n\nTools and environments\n\nFor change management, use ServiceNow\nchange tasks (CTASKs) and change approval records.\nFor automation, use Ansible on Linux servers\nrunning primarily Red Hat Enterprise Linux (RHEL).\nMonitoring and observability tools include Grafana dashboards, Monit, centralized log aggregation, and Java Melody\nfor Java application performance.\nEnvironments include application environments on cruise ships and in shore data centers across multiple time zones. Ship environments may have limited, high-latency satellite connectivity.\nProduction and ship system access is granted after onboarding and security approval [TBD: VPN, remote access and approval process].\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Ascendion",
+      "title": "DevOps Engineer",
+      "location": "Makati, National Capital Region, Philippines",
+      "url": "https://www.linkedin.com/jobs/view/4493960664/",
+      "date_posted": "2026-11-24",
+      "salary": "",
+      "ats": "LinkedIn",
+      "remote_query": false,
+      "description": "Responsibilities\n\nDuring your shift, execute scheduled ServiceNow change tasks (CTASKs) and maintenance windows in accordance with approved change plans and runbooks.\nInstall security patches and renew certificates during their scheduled change windows.\nAfter applying each change, verify it, roll it back if it fails, and document the result in ServiceNow.\nMonitor dashboards and alerts throughout your shift. Respond by determining whether an alert is genuine, resolving routine issues using the runbook, and escalating anything else.\nServe as the first responder for incidents while the US team is offline. If a runbook does not cover the problem, escalate it to the Deployments lead or the DevOps Lead.\nMaintain accurate runbooks by correcting or adding steps that are wrong or missing after each change or incident.\nConduct live handoffs at the beginning and end of every shift, and leave written notes about open work, incidents, and anything the next shift needs to monitor.\nContribute to the team's coverage metrics, including changes completed on schedule and changes delayed or rolled back.\n\nTools and environments\n\nFor change management, use ServiceNow\nchange tasks (CTASKs) and change approval records.\nFor automation, use Ansible on Linux servers\nrunning primarily Red Hat Enterprise Linux (RHEL).\nMonitoring and observability tools include Grafana dashboards, Monit, centralized log aggregation, and Java Melody\nfor Java application performance.\nEnvironments include application environments on cruise ships and in shore data centers across multiple time zones. Ship environments may have limited, high-latency satellite connectivity.\nProduction and ship system access is granted after onboarding and security approval [TBD: VPN, remote access and approval process].\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet"
+    }
+  ]
 }
