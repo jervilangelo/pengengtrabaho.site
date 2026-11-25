@@ -1,6 +1,10 @@
 # 🟦 Indeed — PengengTrabaho — PH Cloud & IT Roles
-*Last updated: 2026-11-24 12:57 UTC*
+*Last updated: 2026-11-25 00:09 UTC*
 
-**0 new role(s)** since last run · 11 total in last 24h
+**1 new role(s)** since last run · 10 total in last 24h
 
-No new roles since the last run.
+### [Linux System Administrator](https://ph.indeed.com/viewjob?jk=ca1cea0a63bc25e9) — Vertere Global Solutions
+- 📍 **Location:** Manila, P00, Philippines
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-24
