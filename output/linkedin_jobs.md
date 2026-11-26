@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — PengengTrabaho — PH Cloud & IT Roles
-*Last updated: 2026-11-25 23:44 UTC*
+*Last updated: 2026-11-26 08:30 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [AWS Engineer with .Net](https://www.linkedin.com/jobs/view/4494991801/) — New York Global Consultants Inc. (NYGCI)
+- 📍 **Location:** Metro Manila
+- 🕒 **Posted:** 2026-11-26

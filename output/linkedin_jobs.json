@@ -1,7 +1,31 @@
 {
-  "scraped_at": "2026-11-25 23:44 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-11-26 08:30 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "New York Global Consultants Inc. (NYGCI)",
+      "title": "AWS Engineer with .Net",
+      "location": "Metro Manila",
+      "url": "https://www.linkedin.com/jobs/view/4494991801/",
+      "date_posted": "2026-11-26",
+      "salary": "",
+      "ats": "LinkedIn",
+      "remote_query": false,
+      "description": "We are looking for an experienced AWS Cloud Engineer with strong hands-on expertise in AWS infrastructure and cloud services, particularly EC2, CloudWatch, and Lambda. The candidate should have experience in managing cloud environments, monitoring application performance, troubleshooting issues, and supporting cloud-based applications. Knowledge of .NET development is required as a secondary skill.\nRoles & Responsibilities:\n\nManage and maintain AWS cloud infrastructure, primarily EC2 instances.\nConfigure, monitor, and troubleshoot AWS CloudWatch for application and infrastructure monitoring.\nDevelop, deploy, and maintain serverless applications using AWS Lambda.\nMonitor cloud resources, identify performance issues, and ensure high availability.\nHandle cloud infrastructure troubleshooting, incident management, and production support.\nConfigure alerts, logs, metrics, and monitoring dashboards using CloudWatch.\nSupport application deployment, maintenance, and cloud environment upgrades.\nWork on AWS security, IAM roles, access management, and resource optimization.\nCollaborate with development and DevOps teams for cloud operations.\nSupport .NET-based applications and troubleshoot application-level issues.\n\nMandatory / Primary Skills:\n\nStrong hands-on experience with AWS EC2.\nAWS CloudWatch – Monitoring, Logs, Metrics and Alerts.\nAWS Lambda – Deployment, Configuration and Troubleshooting.\nAWS cloud infrastructure management and production support.\nCloud monitoring, incident management and troubleshooting.\n\nSecondary Skills:\n\n.NET Core / .NET Framework and C#.\nREST API development and integration.\nSQL Server and database knowledge.\nCI/CD pipelines and deployment processes.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "New York Global Consultants Inc. (NYGCI)",
+      "title": "AWS Engineer with .Net",
+      "location": "Metro Manila",
+      "url": "https://www.linkedin.com/jobs/view/4494991801/",
+      "date_posted": "2026-11-26",
+      "salary": "",
+      "ats": "LinkedIn",
+      "remote_query": false,
+      "description": "We are looking for an experienced AWS Cloud Engineer with strong hands-on expertise in AWS infrastructure and cloud services, particularly EC2, CloudWatch, and Lambda. The candidate should have experience in managing cloud environments, monitoring application performance, troubleshooting issues, and supporting cloud-based applications. Knowledge of .NET development is required as a secondary skill.\nRoles & Responsibilities:\n\nManage and maintain AWS cloud infrastructure, primarily EC2 instances.\nConfigure, monitor, and troubleshoot AWS CloudWatch for application and infrastructure monitoring.\nDevelop, deploy, and maintain serverless applications using AWS Lambda.\nMonitor cloud resources, identify performance issues, and ensure high availability.\nHandle cloud infrastructure troubleshooting, incident management, and production support.\nConfigure alerts, logs, metrics, and monitoring dashboards using CloudWatch.\nSupport application deployment, maintenance, and cloud environment upgrades.\nWork on AWS security, IAM roles, access management, and resource optimization.\nCollaborate with development and DevOps teams for cloud operations.\nSupport .NET-based applications and troubleshoot application-level issues.\n\nMandatory / Primary Skills:\n\nStrong hands-on experience with AWS EC2.\nAWS CloudWatch – Monitoring, Logs, Metrics and Alerts.\nAWS Lambda – Deployment, Configuration and Troubleshooting.\nAWS cloud infrastructure management and production support.\nCloud monitoring, incident management and troubleshooting.\n\nSecondary Skills:\n\n.NET Core / .NET Framework and C#.\nREST API development and integration.\nSQL Server and database knowledge.\nCI/CD pipelines and deployment processes.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
+    }
+  ]
 }
