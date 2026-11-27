@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-26 23:59 UTC",
+  "scraped_at": "2026-11-27 00:02 UTC",
   "total": 6,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cardinal Health",
@@ -112,42 +112,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Cardinal Health",
-      "title": "Cloud Engineer",
-      "location": "Taguig, P00, Philippines",
-      "url": "https://ph.indeed.com/viewjob?jk=9e58afc7ec95bfd8",
-      "direct_url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Philippines-Bonifacio-Global-City-Taguig/Cloud-Engineer_20191533",
-      "company_url": "https://ph.indeed.com/cmp/Cardinal-Health",
-      "date_posted": "2026-11-26",
-      "description": "**What Cloud Engineering contributes to Cardinal Health**\n\nInformation Technology oversees the effective development, delivery, and operation of computing and information services. This function anticipates, plans, and delivers Information Technology solutions and strategies that enable operations and drive business value.\n\nCloud Engineering analyzes the financial, operational, and technical feasibility of adopting external cloud-based IT software, platform, and infrastructure services. This job family evaluates the costs and benefits of cloud, virtual private networks, dedicated housing, and in-house solutions and identifies portions of the organization’s IT infrastructure with the highest potential return for cloud deployment. Cloud Engineering also manages the implementation of cloud services and their integration with in-house applications and systems, coordinating with vendors and adhering to engineering best practices.\n\n**Qualifications**\n\n* BA, BS or equivalent experience in related field. Advance Degree may be required\n* 4-8 years experience\n* Understands high-level to area-specific concepts and architecture of Cloud platforms. Knowledgeable on permission levels and how it provides accesses to individuals\n* Able to analyze and recommend on resource allocation based on capacity management and analysis on Cloud platforms\n* Active participation on the projects, designing the technical solution and oversee the deployment process to align the implementation with the architecture proposed.\n* Create intermediate to advance scripting (Shell/Python/Powershell) methods to enhance or automate certain tasks, within OS and outside platforms (GCP, AWS)\n* Able to propose enhancements and new set of tools, upgrades, and automations as tools for the environment on process-specific to general-process level\n* Knows the intermediate concept of networking, firewall rulings and ports and how it impacts OS / platform performance\n* Able to create Change control activities based off on the overall infrastructure availability and present to CCB\n* Able to perform root cause analysis (RCA) and recommends permanent corrective actions based on the analysis\n* Ability to create data-driven reports and analysis using tools provided within CAH and to provide next action items for leaning existing processes and resolving issues\n* Strong knowledge of GCP and AWS architecture (SaaS, PaaS, and IaaS)\n* Strong knowledge of infrastructure maintenance and delivery within an enterprise environment.\n* Able to evaluate (architecture, cost, technology) for Cloud and hybrid environments.\n* Strong knowledge or concept on how the NFS and SMB\n* Strong knowledge of Cloud Storage, Kubernetes and S3 Bucket (Security/Policies)\n\n**What is expected of you and others at this level**\n\n* Applies comprehensive knowledge and a thorough understanding of concepts, principles, and technical capabilities to perform varied tasks and projects\n* May contribute to the development of policies and procedures\n* Works on complex projects of large scope\n* Develops technical solutions to a wide range of difficult problems. Solutions are innovative and consistent with organization objectives\n* Completes work independently receives general guidance on new projects\n* Work reviewed for purpose of meeting objectives\n* May act as a mentor to less experienced colleagues\n\nCardinal Health supports an inclusive workplace that values diversity of thought, experience and background. We celebrate the power of our differences to create better solutions for our customers by ensuring employees can be their authentic selves each day. Cardinal Health is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, ancestry, age, physical or mental disability, sex, sexual orientation, gender identity/expression, pregnancy, veteran status, marital status, creed, status with regard to public assistance, genetic status or any other status protected by federal, state or local law.\n\n*To read and review this privacy notice click* here",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Directio",
-      "title": "DevOps Engineer - Hybrid Work Type DevOps Department · Manila · Hybrid",
-      "location": "Fort Bonifacio, P00, Philippines",
-      "url": "https://ph.indeed.com/viewjob?jk=1d640fa8bb74f5dc",
-      "direct_url": "https://directio.teamtailor.com/jobs/8799778-devops-engineer-hybrid-work-type",
-      "company_url": "https://ph.indeed.com/cmp/Directio",
-      "date_posted": "2026-11-26",
-      "description": "Directio is a global IT services company. We consult, code, test, deploy, and manage mainly cloud-based and mobile applications, providing around-the-clock support from our offices in Poland, the Philippines, Mexico, and the USA. We prepare our FMCG, retail, automotive, and SaaS clients for the future by accelerating their digital transformation. Operating under the “We Code Success” principle, we prioritize the success of our clients, consultants, and partners.\n\n#### **About project:**\n\nWe are looking for a DevOps Engineer for our international client who delivers innovative digital transformation solutions for the insurance and financial services industry. By combining artificial intelligence, advanced analytics, and modern cloud technologies, the organization helps businesses streamline operations, improve decision-making, and create seamless customer experiences. The company operates across multiple global markets and is committed to driving innovation through scalable, data-driven platforms.\n\n#### **Responsibilities:**\n\n* As DevOps Engineer, you will be deploying, configuring, and maintaining cloud infrastructure across AWS and Azure;\n* You will be managing containerized applications using Docker and Kubernetes;\n* You will be implementing and maintaining CI/CD pipelines and infrastructure automation;\n* You will be monitoring system performance, availability, and security;\n* You will be troubleshooting infrastructure, deployment, and connectivity issues;\n* You will be managing cloud resources, backups, and disaster recovery processes;\n* You will be collaborating with development and QA teams to ensure reliable application delivery.\n\n#### **Requirements:**\n\n* 2–3 years of professional experience in DevOps, cloud infrastructure, or a related role;\n* Professional experience in the banking, insurance, financial services, or payments industry;\n* Hands-on experience with AWS services such as EKS, EC2, S3, RDS/Aurora, IAM, KMS, and CloudWatch;\n* Familiarity with AWS ECS, Lambda, API Gateway, GuardDuty, and WAF;\n* Experience with Microsoft Azure services, including AKS, Virtual Machines, Blob Storage, Azure Database for PostgreSQL, and Entra ID;\n* Strong knowledge of Docker and Kubernetes, including container deployment and orchestration;\n* Experience with Terraform for infrastructure provisioning and automation across cloud platforms;\n* Knowledge of CloudFront, Nginx, Kubernetes Ingress, Route 53, and SSL/TLS certificates;\n* Experience building and maintaining CI/CD pipelines using GitHub and GitHub Actions;\n* Familiarity with monitoring and observability tools such as Prometheus, Grafana, and CloudWatch;\n* Experience with SonarQube for code quality analysis and maintenance;\n* Good understanding of Linux administration and scripting using Bash or Python;\n* Knowledge of networking concepts, including VPC/VNet, subnets, security groups, DNS, and load balancers;\n* Experience with PostgreSQL database backup, restoration, and basic administration;\n* Understanding of cloud security, access management, and infrastructure best practices.\n\n### **Nice to Have**\n\n* Familiarity with Helm, ArgoCD, and Kubernetes deployment automation;\n* Experience with infrastructure and container security scanning tools such as Trivy and Checkov;\n* AWS or Kubernetes certifications, such as AWS Certified Solutions Architect or CKA;\n* Experience working in banking, insurance, financial services, or other regulated industries;\n* Familiarity with Kafka, Redis, AWS MSK, and ElastiCache;\n* Experience with Kubernetes autoscaling, Karpenter, and network policies;\n* Knowledge of AWS Secrets Manager, External Secrets, and security policy tools such as Kyverno or OPA Gatekeeper;\n* Familiarity with logging and observability tools such as Fluent Bit, Loki, OpenTelemetry, and Alertmanager;\n* Experience with AWS CloudTrail, Config, Security Hub, and disaster recovery solutions;\n* Knowledge of PostgreSQL performance tuning, RDS Proxy, and PgBouncer;\n* Familiarity with cloud cost optimization, load testing, and disaster recovery drills;\n* Experience with AWS services such as SQS, SNS, EventBridge, Step Functions, and Systems Manager;\n* Familiarity with authentication solutions such as Amazon Cognito or Keycloak;\n* Experience with GitHub Actions self-hosted runners and Terraform pipeline validation.\n\n#### **We offer:**\n\n* Salary for work amounting to ₱30,000 to 35,000;\n* Monthly transportation allowance of ₱4,000;\n* ₱3,600 de minimis monthly non-taxable allowance;\n* HMO coverage from day 1 for you and 1 dependent;\n* Equipment provided;\n* Optical coverage;\n* Year-end leave monetization;\n* Gym subscription;\n* Monthly supply of coffee!\n\n#### **Please be advised that we will only contact selected candidates.**",
-      "salary": "$30k–$35k/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "PHP",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
