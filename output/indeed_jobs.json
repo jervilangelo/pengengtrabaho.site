@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-27 08:58 UTC",
+  "scraped_at": "2026-11-27 09:08 UTC",
   "total": 4,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cardinal Health",
@@ -76,42 +76,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ACCPRO INTERNATIONAL",
-      "title": "Network Engineer- L2",
-      "location": "Manila, P00, Philippines",
-      "url": "https://ph.indeed.com/viewjob?jk=49e41fc73c4a54ed",
-      "direct_url": "",
-      "company_url": "https://ph.indeed.com/cmp/Accpro-International-1ed3b8c6",
-      "date_posted": "2026-11-27",
-      "description": "**System Engineer**\n\n* **Location:** Valenzuela\n* **Work setup:** Onsite\n* **Work schedule:** Monday- Friday\n\n**Job Responsibilities**\n\n* Install and configure to spec. Set up and configure systems based on the design plans from the Solutions Team, following the company's technical implementation standards. Document what was actually installed (\"asbuilt\" documentation) and record the results of acceptance testing.\n* Resolve escalated technical issues. Handle incidents escalated from first-line support (L1). Diagnose and fix issues within your skill set; escalate anything beyond that to third-line support (L3) or the vendor's technical support team through the local distributor, following the standard escalation process.\n* Own the cutover process. For every go-live/migration event, be responsible for the step-by-step implementation plan, the rollback plan, the scheduled change window, and getting the client's final sign-off.\n* Guide and supervise junior techs. Provide technical direction and on-site supervision to L1 support staff on assigned projects.\n* Manage vendor support cases. Open and track support tickets with vendors like Cisco, Fortinet, Meraki, and Ubiquiti through the distributor, and coordinate equipment returns/replacements (RMA) with Post-Sales Support.\n* Maintain your certifications. Keep up with professional-level certifications as required by the company's technical career track.\n\n**Qualifications**\n\n* 2–5 years hands-on implementation of enterprise network and security infrastructure.\n* Can configure and troubleshoot at CLI level on at least one principal IXS carries (Cisco, Fortinet, HPE Aruba).\n* Has led at least one client cutover with a written method of procedure.\n* A plus if you have (not required but good to have) • Professional-level certification (CCNP, NSE 4+, ACP).\n* Structured cabling certification or physical security systems experience.\n\nPay: Php20,000.00 - Php30,000.00 per month\n\nWork Location: In person",
-      "salary": "$20k–$30k/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "PHP",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "South Asialink Finance Corporation",
-      "title": "Field Technical Support Engineer",
-      "location": "Cabanatuan, P03, Philippines",
-      "url": "https://ph.indeed.com/viewjob?jk=0d73a289609e6a81",
-      "direct_url": "",
-      "company_url": "https://ph.indeed.com/cmp/South-Asialink-Finance-Corporation-3",
-      "date_posted": "2026-11-27",
-      "description": "**JOB SUMMARY**\n\nTo provide timely and effective technical assistance for internal systems, hardware, and software, ensuring smooth operations and minimal downtime. The Technical Support Engineer serves as the first line of defense for resolving IT issues, maintaining system integrity, and supporting end-users across the organization.\n\n**DUTIES AND RESPONSIBILITIES:**\n\n**Issue Resolution**\n\n* Diagnose and resolve hardware, software, and network problems\n* Respond to support tickets, emails, and calls from internal users\n\n**System Setup & Maintenance**\n\n* Install and configure operating systems, applications, and devices\n* Perform routine system checks and updates\n\n**User Support**\n\n* Assist with login issues, password resets, and access requests\n* Provide guidance on using internal tools and platforms\n\n**Documentation**\n\n* Maintain records of issues, solutions, and system configurations\n* Contribute to internal knowledge base and support documentation\n\n**Collaboration**\n\n* Work with System Admin, System Support, Database Admin, Network Admin teams to escalate complex issues\n* Coordinate with departments to understand and support their tech needs\n\n**Security & Compliance**\n\n* Enforce security protocols and monitor for unauthorized access\n* Support data protection and backup procedures\n\n**Technical Skills Must have knowledge in**:\n\n* Printer troubleshooting (e.g., connectivity, driver issues, print queue errors)\n* Basic networking (e.g., IP addressing, LAN/WAN concepts, ping/traceroute diagnostics)\n* Windows operating systems (e.g., user profiles, system settings, updates, troubleshooting) Also familiar with:\n* Active Directory and user account management\n* Internal systems (e.g., HRIS, ERP)\n* Ticketing platforms (e.g., Jira, ServiceNow)\n* Remote desktop tools\n\n**Soft Skills**\n\n* Strong communication, problem-solving, attention to detail, confidentiality awareness, willingness to learn\n\n**Certifications**\n\n* Not required, but CompTIA A+, ITIL Foundation, or Microsoft Certified: Fundamentals are a plus\n\n**Work Environment**\n\n* Office-based may require occasional after-hours support\n\n**Tools Used**\n\n* Ticketing systems, internal databases, remote support tools, basic reporting platforms\n\n**JOB SPECIFICATIONS:**\n\n* **Bachelor’s degree in information technology, Computer Science, or a related field**\n* **1 - 2 years experience in technical support, helpdesk, or IT operations; internship experience is a plus**\n* **Willing to do fieldworks**\n* **Preferably with motorcycle**\n* Willing to train in Ortigas, Pasig for at least 2 weeks.\n\n***Free accommodation, reimbursable transportation expenses, and training allowance will be provided during the training period at the Head Office***\n\nPay: Php18,000.00 - Php21,000.00 per month\n\nBenefits:\n\n* Company events\n* Life insurance\n* Opportunities for promotion\n* Paid training\n* Pay raise\n\nWork Location: In person",
-      "salary": "$18k–$21k/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "PHP",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
